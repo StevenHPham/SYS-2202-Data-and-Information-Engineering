@@ -1,6 +1,6 @@
 # SYS-2202-Data-and-Information-Engineering
 
-Full Syllabus
+# Full Syllabus
 Course Information:
 Pre-requisites:  SYS 2001, CS 1110
 Co-requisite: CS 2110 
