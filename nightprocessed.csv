@@ -1,0 +1,21 @@
+X1,X2,bedtime,asleep,woke,outofbed,I exercised,I communicated with,focus,energy,mood,productivity,stress,today I ate,today I drank,comment
+Start Time,End Time,13,100,1010,1019,4,"2,3",0.74,0.77,0.74,0.76,0.49,"1,2,3",2,no
+Start Time,End Time,2,247,950,955,2,"1,2,3,4",0.35,0.28,0.24,0.23,0.44,"1,2,3",2,no
+Start Time,End Time,13,10,910,915,4,"1,2,3",0.89,0.72,1,0.82,0.24,"1,2,3",1,no
+Start Time,End Time,2,50,1100,1130,3,"2,3",0.5,0.5,0.5,0.5,0.5,"1,2,3",2,no
+Start Time,End Time,1,0,730,740,4,"2,3",1,1,1,1,0,"1,2,3,4",1,no
+Start Time,End Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Start Time,End Time,12,500,1040,1045,"2,3","1,2,3,4",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,13,200,800,810,4,"1,4",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,1,100,1000,10053,4,1,0.71,0.5,0.5,0.5,0.5,2,2,no
+Start Time,End Time,5,400,1000,1020,2,2,0.5,0.5,0.5,0.5,0.5,1,2,no
+Start Time,End Time,1,100,1000,1010,4,"1,2",0.5,0.5,0.5,0.5,0.5,1,2,no
+Start Time,End Time,1,0,1107,1122,2,"2,3,4",0.42,0.4,0.4,0.4,0.47,"1,2,3",1,no
+Start Time,End Time,1,1231,1234,1235,1,1,0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,2,123,1328,1335,2,"1,2,3",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,1,1000,1200,1215,3,"1,2",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,o
+Start Time,End Time,1,150,900,920,2,"1,2,3",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,3,212,845,850,4,"2,3",0.5,0.5,0.5,0.5,0.5,3,1,no
+Start Time,End Time,2,100,1014,1135,2,"2,3",0.35,0.5,0.5,0.5,0.5,3,1,no
+Start Time,End Time,1,200,1122,1122,2,"2,3",0.5,0.5,0.5,0.5,0.5,"1,2,3",1,no
+Start Time,End Time,1,100,1000,10303,1,"1,2,3,4",0.39,0.56,0.5,1,0.56,"1,2,3",1,no

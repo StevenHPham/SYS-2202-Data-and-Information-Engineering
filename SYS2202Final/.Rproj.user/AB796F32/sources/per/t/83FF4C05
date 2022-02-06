@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598898100783.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3802244945",
+    "id" : "83FF4C05",
+    "lastKnownWriteTime" : 1599716143,
+    "last_content_update" : 1599716143,
+    "path" : "~/Documents/4021/R Code/UnivarViz.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "105,46",
+        "scrollLine" : "93"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

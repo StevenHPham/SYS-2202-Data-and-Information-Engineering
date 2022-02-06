@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604385231605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1289411234",
+    "id" : "8D0FCE99",
+    "lastKnownWriteTime" : 1643981342,
+    "last_content_update" : 1643981342783,
+    "path" : "~/SYS2202Final/twitter.R",
+    "project_path" : "twitter.R",
+    "properties" : {
+        "cursorPosition" : "3,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
