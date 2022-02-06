@@ -1,7 +1,8 @@
 # SYS-2202-Data-and-Information-Engineering
 
-# Full Syllabus
+## Full Syllabus
 Course Information:
+
 Pre-requisites:  SYS 2001, CS 1110
 Co-requisite: CS 2110 
 Lectures:  Tuesday and Thursday from 11:00am-12:15pm in Olsson Hall 120
@@ -14,9 +15,11 @@ Course Description:
 This course provides an introduction to a fundamental aspect of data science and engineering - working with data. Learn skills to efficiently and effectively obtain, manipulate, store, and analyze data (i.e., convert data to information) to support decision making and future data modeling (e.g., regression, data mining, machine learning) efforts. Emphasis on obtaining, cleaning, combining, and wrangling the data into a more usable form. Learn how to break up a large dataset into manageable pieces and then use a variety of quantitative and visual tools to summarize and extract information from it. The challenges of big data (e.g., size, streaming data, mixed variable types) will be addressed throughout the course. As an introductory course, the focus will be on understanding basic concepts and how to implement them in R, a leading data science language.
 
 Student Learning Objectives:
+
 Students completing this course should be able to: (i) manipulate and extract information from several types of data, (ii) make informative, and pretty, plots to aid in decision making, (iii) prepare data for modeling (e.g., regression, data mining, and machine learning), (iv) create and present reproducible results from data analysis, and (v) effectively communicate the results of data analysis and the methods used to obtain the results.
 
 Course Outline:
+
 Introduction to Data Science and Engineering
 Data Collection
 Getting to Know Your Data
